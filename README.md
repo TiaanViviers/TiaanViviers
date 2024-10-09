@@ -13,6 +13,7 @@
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 
 ## 🌱 Current Projects
 
