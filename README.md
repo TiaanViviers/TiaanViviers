@@ -15,17 +15,12 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 
-## 🌱 Current Projects
-
-- Building a custom compiler using ANSI C.
-- Exploring machine learning techniques in Python.
-- Various IoT projects involving processing of API and live sensor readings
-
 ## 🚀 Learning Goals
 
 - Deepen my understanding of the math and statistics behind machine learning and data science.
-- Advance my knowledge in the C and SQL programming languages.
-- Experiment with new data science techniques.
+- Python libraries for Machine Learning.
+- Scalable solutions for deploying Machine learning systems.
+- AI applications through API integration.
 
 ## 📫 How to Reach Me
 
